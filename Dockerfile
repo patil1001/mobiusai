@@ -38,7 +38,7 @@ RUN npm run build
 FROM node:${NODE_VERSION}-alpine AS production
 WORKDIR /app
 ENV NODE_ENV=production \
-    PORT=8080 \
+    PORT=3000 \
     NEXT_TELEMETRY_DISABLED=1
 
 # Copy standalone output
@@ -47,7 +47,7 @@ COPY --from=builder /app/.next/standalone ./
 COPY --from=builder /app/.next/static ./.next/static
 COPY --from=builder /app/public ./public
 
-EXPOSE 8080
+EXPOSE 3000
 CMD ["node","server.js"]
 
 

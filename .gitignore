@@ -40,6 +40,15 @@ next-env.d.ts
 .drafts/
 .drafts/*
 
+# npm cache
+.npm-cache/
+
+# extracted files
+extracted/
+
+# zip files
+*.zip
+
 # Docker volumes
 postgres_data/
 

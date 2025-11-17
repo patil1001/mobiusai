@@ -1,2 +1,0 @@
-CMD-LOG-LINE-BEGIN 21300 | 2025-10-31 02:12:55,904 | INFO | az_command_data_logger | command args: storage account list --resource-group {} --query {} -o {}
-CMD-LOG-LINE-BEGIN 21300 | 2025-10-31 02:12:58,048 | INFO | az_command_data_logger | exit code: 0

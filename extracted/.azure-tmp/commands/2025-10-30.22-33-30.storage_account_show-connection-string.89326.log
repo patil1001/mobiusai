@@ -1,2 +1,0 @@
-CMD-LOG-LINE-BEGIN 89326 | 2025-10-30 22:33:30,601 | INFO | az_command_data_logger | command args: storage account show-connection-string --subscription {} --name {} --resource-group {} --query {} -o {}
-CMD-LOG-LINE-BEGIN 89326 | 2025-10-30 22:33:33,065 | INFO | az_command_data_logger | exit code: 0

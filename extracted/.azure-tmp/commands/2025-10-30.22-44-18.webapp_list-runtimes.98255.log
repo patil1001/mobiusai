@@ -1,3 +1,0 @@
-CMD-LOG-LINE-BEGIN 98255 | 2025-10-30 22:44:18,139 | INFO | az_command_data_logger | command args: webapp list-runtimes --os-type {} --location {} -o {}
-CMD-LOG-LINE-BEGIN 98255 | 2025-10-30 22:44:19,176 | ERROR | az_command_data_logger | unrecognized arguments: --location centralindia
-CMD-LOG-LINE-BEGIN 98255 | 2025-10-30 22:44:19,177 | INFO | az_command_data_logger | exit code: 2

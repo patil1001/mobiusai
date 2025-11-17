@@ -1,2 +1,0 @@
-CMD-LOG-LINE-BEGIN 30161 | 2025-10-31 02:21:19,221 | INFO | az_command_data_logger | command args: webapp config appsettings list --subscription {} --resource-group {} --name {} -o {}
-CMD-LOG-LINE-BEGIN 30161 | 2025-10-31 02:21:26,528 | INFO | az_command_data_logger | exit code: 0

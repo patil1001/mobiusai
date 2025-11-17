@@ -1,2 +1,0 @@
-CMD-LOG-LINE-BEGIN 15552 | 2025-10-30 23:08:43,703 | INFO | az_command_data_logger | command args: appservice plan create --subscription {} --name {} --resource-group {} --sku {} --is-linux --location {}
-CMD-LOG-LINE-BEGIN 15552 | 2025-10-30 23:08:48,455 | INFO | az_command_data_logger | exit code: 0

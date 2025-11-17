@@ -1,2 +1,0 @@
-CMD-LOG-LINE-BEGIN 15859 | 2025-10-30 23:08:55,002 | INFO | az_command_data_logger | command args: webapp create --subscription {} --resource-group {} --plan {} --name {} --runtime {}
-CMD-LOG-LINE-BEGIN 15859 | 2025-10-30 23:09:26,432 | INFO | az_command_data_logger | exit code: 0

@@ -1,9 +1,0 @@
-CMD-LOG-LINE-BEGIN 92148 | 2025-10-30 22:37:11,317 | INFO | az_command_data_logger | command args: appservice plan create --subscription {} --name {} --resource-group {} --sku {} --is-linux --location {}
-CMD-LOG-LINE-BEGIN 92148 | 2025-10-30 22:37:14,755 | ERROR | az_command_data_logger | (MissingSubscriptionRegistration) The subscription is not registered to use namespace 'Microsoft.Web'. See https://aka.ms/rps-not-found for how to register subscriptions.
-Code: MissingSubscriptionRegistration
-Message: The subscription is not registered to use namespace 'Microsoft.Web'. See https://aka.ms/rps-not-found for how to register subscriptions.
-Exception Details:	(MissingSubscriptionRegistration) The subscription is not registered to use namespace 'Microsoft.Web'. See https://aka.ms/rps-not-found for how to register subscriptions.
-	Code: MissingSubscriptionRegistration
-	Message: The subscription is not registered to use namespace 'Microsoft.Web'. See https://aka.ms/rps-not-found for how to register subscriptions.
-	Target: Microsoft.Web
-CMD-LOG-LINE-BEGIN 92148 | 2025-10-30 22:37:14,755 | INFO | az_command_data_logger | exit code: 1

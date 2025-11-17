@@ -1,2 +1,0 @@
-CMD-LOG-LINE-BEGIN 94530 | 2025-10-30 22:39:58,138 | INFO | az_command_data_logger | command args: provider show --namespace {} --query {} -o {}
-CMD-LOG-LINE-BEGIN 94530 | 2025-10-30 22:39:59,803 | INFO | az_command_data_logger | exit code: 0

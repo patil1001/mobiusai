@@ -1,3 +1,0 @@
-CMD-LOG-LINE-BEGIN 92204 | 2025-10-30 22:37:15,122 | INFO | az_command_data_logger | command args: webapp create --subscription {} --resource-group {} --plan {} --name {} --runtime {}
-CMD-LOG-LINE-BEGIN 92204 | 2025-10-30 22:37:16,652 | ERROR | az_command_data_logger | The plan 'mobius-plan' doesn't exist.
-CMD-LOG-LINE-BEGIN 92204 | 2025-10-30 22:37:16,652 | INFO | az_command_data_logger | exit code: 3

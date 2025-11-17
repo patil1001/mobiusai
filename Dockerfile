@@ -12,10 +12,10 @@ RUN apk add --no-cache python3 make g++
 # Install deps in a separate layer (uses lockfile when present)
 FROM base AS deps
 COPY package.json package-lock.json* yarn.lock* pnpm-lock.yaml* ./
-RUN if [ -f package-lock.json ]; then npm ci; \
+RUN if [ -f package-lock.json ]; then npm ci --legacy-peer-deps || npm install --legacy-peer-deps; \
     elif [ -f yarn.lock ]; then yarn --frozen-lockfile; \
     elif [ -f pnpm-lock.yaml ]; then corepack enable && pnpm i --frozen-lockfile; \
-    else npm i; fi
+    else npm install --legacy-peer-deps; fi
 
 # Development image with hot reload
 FROM base AS development

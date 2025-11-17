@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev -p 3000",
     "build": "next build",
-    "start": "next start -p $PORT",
+    "start": "next start -p ${PORT:-3000}",
     "lint": "next lint",
     "db:normalize": "node scripts/normalizeEmails.cjs",
     "cleanup:drafts": "node scripts/cleanup-drafts.cjs"
@@ -13,7 +13,6 @@
   "dependencies": {
     "@azure/storage-blob": "^12.17.0",
     "@next-auth/prisma-adapter": "1.0.7",
-    "@next/swc-darwin-arm64": "^16.0.3",
     "@polkadot/api": "^10.13.1",
     "@polkadot/extension-dapp": "^0.47.2",
     "@polkadot/util": "^12.6.2",

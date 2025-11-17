@@ -39,7 +39,7 @@ export async function POST(req: NextRequest) {
         }
 
         // Check if project is awaiting name
-        const runs = await prisma.run.findMany({ where: { projectId }, orderBy: { createdAt: 'desc' } })
+        const runs = await prisma.run.findMany({ where: { projectId }, orderBy: { startedAt: 'desc' } })
         const lastRun = runs[0]
         
         if (!lastRun) {

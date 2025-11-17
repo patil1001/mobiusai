@@ -1,0 +1,2 @@
+CMD-LOG-LINE-BEGIN 10841 | 2025-10-31 04:05:08,586 | INFO | az_command_data_logger | command args: webapp restart --resource-group {} --name {}
+CMD-LOG-LINE-BEGIN 10841 | 2025-10-31 04:05:10,566 | INFO | az_command_data_logger | exit code: 0

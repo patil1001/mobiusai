@@ -1,0 +1,2 @@
+CMD-LOG-LINE-BEGIN 79907 | 2025-10-31 03:21:58,458 | INFO | az_command_data_logger | command args: webapp config appsettings delete --subscription {} --resource-group {} --name {} --setting-names {}
+CMD-LOG-LINE-BEGIN 79907 | 2025-10-31 03:22:08,127 | INFO | az_command_data_logger | exit code: 0

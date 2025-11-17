@@ -1,0 +1,26 @@
+# Separate compose file for draft builder service
+# This can be run separately: docker compose -f docker-compose.yml -f docker-compose.draft.yml up
+
+services:
+  draft-builder:
+    build:
+      context: .
+      dockerfile: Dockerfile.draft
+    container_name: mobiusai-draft-builder
+    env_file:
+      - .env.local
+    environment:
+      - DATABASE_URL=postgresql://mobius:mobius@db:5432/mobius
+      - GROQ_API_KEY=${GROQ_API_KEY}
+    volumes:
+      - ./.drafts:/app/.drafts
+      - /app/.drafts/node_modules
+    depends_on:
+      - db
+    networks:
+      - default
+
+networks:
+  default:
+    name: mobius_default
+

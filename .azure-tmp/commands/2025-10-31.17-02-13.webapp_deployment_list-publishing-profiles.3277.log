@@ -1,0 +1,2 @@
+CMD-LOG-LINE-BEGIN 3277 | 2025-10-31 17:02:13,858 | INFO | az_command_data_logger | command args: webapp deployment list-publishing-profiles --subscription {} --resource-group {} --name {} --query {} -o {}
+CMD-LOG-LINE-BEGIN 3277 | 2025-10-31 17:02:15,997 | INFO | az_command_data_logger | exit code: 0

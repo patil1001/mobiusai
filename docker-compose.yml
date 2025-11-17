@@ -1,0 +1,52 @@
+services:
+  db:
+    image: postgres:16-alpine
+    container_name: mobiusai-db
+    environment:
+      POSTGRES_USER: mobius
+      POSTGRES_PASSWORD: mobius
+      POSTGRES_DB: mobius
+    ports:
+      - "5432:5432"
+    volumes:
+      - dbdata:/var/lib/postgresql/data
+  web:
+    build:
+      context: .
+      target: development
+    container_name: mobiusai-web
+    ports:
+      - "3000:3000"
+      - "3001-3200:3001-3200"  # Draft preview ports (supports up to 200 concurrent drafts)
+    env_file:
+      - .env.local
+    volumes:
+      - .:/app
+      - /app/node_modules
+      - /app/.next
+      - ./.drafts:/app/.drafts
+    command: npm run dev
+    environment:
+      - DATABASE_URL=postgresql://mobius:mobius@db:5432/mobius
+    depends_on:
+      - db
+
+  web-prod:
+    build:
+      context: .
+      target: production
+    container_name: mobiusai-prod
+    environment:
+      - PORT=8080
+      - DATABASE_URL=postgresql://mobius:mobius@db:5432/mobius
+    env_file:
+      - .env.local
+    ports:
+      - "8080:8080"
+      - "3001-3200:3001-3200"  # Draft preview ports (match dev setup)
+    depends_on:
+      - db
+
+volumes:
+  dbdata:
+

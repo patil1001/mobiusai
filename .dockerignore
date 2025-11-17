@@ -1,0 +1,15 @@
+node_modules
+.next/cache
+.git
+.DS_Store
+*.log
+npm-debug.log*
+yarn-error.log*
+*.zip
+.npm-cache
+**/.env*
+
+
+# Draft builds - exclude from Docker context
+.drafts/
+.drafts/**/*

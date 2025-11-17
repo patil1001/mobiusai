@@ -1,0 +1,20 @@
+# Dockerfile for draft builder service
+FROM node:20-alpine
+
+WORKDIR /app
+
+# Install dependencies for building drafts
+RUN apk add --no-cache git
+
+# Copy draft builder script
+COPY lib/draftService.ts /app/lib/
+COPY package.json /app/
+
+# Install Node dependencies needed for building
+RUN npm install -g typescript ts-node
+
+# Drafts will be built in ./.drafts/{projectId} volumes
+# This container watches and builds drafts on demand
+
+CMD ["node", "-e", "console.log('Draft builder service ready'); setInterval(() => {}, 60000)"]
+

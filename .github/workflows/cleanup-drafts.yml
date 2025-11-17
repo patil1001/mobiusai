@@ -1,0 +1,32 @@
+# GitHub Action to periodically clean up old draft directories
+# This runs daily to prevent disk space issues
+
+name: Cleanup Old Drafts
+
+on:
+  schedule:
+    # Run every day at 2 AM UTC
+    - cron: '0 2 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Run cleanup script
+        run: npm run cleanup:drafts
+        env:
+          NODE_ENV: production
+      
+      - name: Report disk usage
+        run: du -sh .drafts || echo "No .drafts directory"
+

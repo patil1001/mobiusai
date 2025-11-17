@@ -1,0 +1,44 @@
+services:
+  - type: web
+    name: mobiusai
+    env: node
+    region: oregon
+    plan: free
+    buildCommand: npx prisma generate && npm install && npm run build
+    startCommand: npm start
+    healthCheckPath: /
+    envVars:
+      - key: DATABASE_URL
+        sync: false
+      - key: NEXTAUTH_URL
+        sync: false
+      - key: NEXTAUTH_SECRET
+        generateValue: true
+      - key: GROQ_API_KEY
+        sync: false
+      - key: GROQ_BASE_URL
+        value: https://api.groq.com/openai/v1
+      - key: GROQ_MODEL
+        value: llama-3.3-70b-versatile
+      - key: NEXT_PUBLIC_POLKADOT_ENDPOINT
+        value: wss://westend-rpc.polkadot.io
+      - key: NEXT_PUBLIC_POLKADOT_CHAIN
+        value: Westend
+      - key: NEXT_PUBLIC_POLKADOT_UNIT
+        value: WND
+      - key: NEXT_PUBLIC_POLKADOT_DECIMALS
+        value: "12"
+      - key: NEXT_PUBLIC_PEOPLE_CHAIN_ENDPOINT
+        value: wss://westend-people-rpc.polkadot.io
+      - key: PORT
+        value: "3000"
+      - key: NODE_ENV
+        value: production
+
+databases:
+  - name: mobiusai-db
+    databaseName: mobiusai
+    user: mobiusai
+    plan: free
+    ipAllowList: []
+

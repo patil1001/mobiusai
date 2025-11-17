@@ -1,0 +1,2 @@
+CMD-LOG-LINE-BEGIN 44244 | 2025-10-31 02:39:25,174 | INFO | az_command_data_logger | command args: webapp log tail --subscription {} --resource-group {} --name {}
+CMD-LOG-LINE-BEGIN 44244 | 2025-10-31 02:44:53,704 | INFO | az_command_data_logger | exit code: 1

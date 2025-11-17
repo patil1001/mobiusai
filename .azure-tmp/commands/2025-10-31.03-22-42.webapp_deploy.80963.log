@@ -1,0 +1,2 @@
+CMD-LOG-LINE-BEGIN 80963 | 2025-10-31 03:22:42,390 | INFO | az_command_data_logger | command args: webapp deploy --subscription {} --resource-group {} --name {} --src-path {} --type {} --async {}
+CMD-LOG-LINE-BEGIN 80963 | 2025-10-31 03:32:15,158 | INFO | az_command_data_logger | exit code: 0

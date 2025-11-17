@@ -1,0 +1,5 @@
+CMD-LOG-LINE-BEGIN 15032 | 2025-10-31 04:10:03,545 | INFO | az_command_data_logger | command args: webapp deploy --subscription {} --resource-group {} --name {} --src-path {} --type {} --async {}
+CMD-LOG-LINE-BEGIN 15032 | 2025-10-31 04:21:33,783 | ERROR | az_command_data_logger | Deployment failed because the build process failed
+Please check the build logs for more info: https://mobiusai-rushikeshdeelippatil-17872.scm.azurewebsites.net/deployments/cbad77f6-6a98-47fe-a5ce-f5e0d160ad25/log
+
+CMD-LOG-LINE-BEGIN 15032 | 2025-10-31 04:21:33,783 | INFO | az_command_data_logger | exit code: 1

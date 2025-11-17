@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: dark; }
+
+html, body, :root { height: 100%; }
+
+body { @apply bg-surface text-white; }
+
+.glass {
+  backdrop-filter: blur(10px);
+  background: rgba(15, 15, 17, 0.6);
+  border: 1px solid rgba(255,255,255,0.06);
+}
+

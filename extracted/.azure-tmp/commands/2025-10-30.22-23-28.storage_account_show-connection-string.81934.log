@@ -1,0 +1,5 @@
+CMD-LOG-LINE-BEGIN 81934 | 2025-10-30 22:23:28,675 | INFO | az_command_data_logger | command args: storage account show-connection-string --subscription {} --name {} --resource-group {} --query {} -o {}
+CMD-LOG-LINE-BEGIN 81934 | 2025-10-30 22:23:30,038 | ERROR | az_command_data_logger | (ResourceNotFound) The Resource 'Microsoft.Storage/storageAccounts/mobiusstor1761843206' under resource group 'mobius-rg' was not found. For more details please go to https://aka.ms/ARMResourceNotFoundFix
+Code: ResourceNotFound
+Message: The Resource 'Microsoft.Storage/storageAccounts/mobiusstor1761843206' under resource group 'mobius-rg' was not found. For more details please go to https://aka.ms/ARMResourceNotFoundFix
+CMD-LOG-LINE-BEGIN 81934 | 2025-10-30 22:23:30,038 | INFO | az_command_data_logger | exit code: 3

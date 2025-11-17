@@ -1,0 +1,608 @@
+65694 : 2025-10-30 22:06:06,125 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030220606023].
+65694 : 2025-10-30 22:06:06,125 : INFO : telemetry.records : 1 cache files to upload.
+65694 : 2025-10-30 22:06:06,126 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030220606023/cache into 1 records.
+65694 : 2025-10-30 22:06:06,126 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030220606023
+65694 : 2025-10-30 22:06:06,127 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+65694 : 2025-10-30 22:06:06,127 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+65694 : 2025-10-30 22:06:07,088 : INFO : telemetry.sender : Sending 4195 bytes
+65694 : 2025-10-30 22:06:07,090 : INFO : telemetry.sender : Finish uploading in 0.962316 seconds.
+65763 : 2025-10-30 22:06:08,657 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030220608584].
+65763 : 2025-10-30 22:06:08,657 : INFO : telemetry.records : 1 cache files to upload.
+65763 : 2025-10-30 22:06:08,658 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030220608584/cache into 1 records.
+65763 : 2025-10-30 22:06:08,658 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030220608584
+65763 : 2025-10-30 22:06:08,659 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+65763 : 2025-10-30 22:06:08,659 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+65763 : 2025-10-30 22:06:09,611 : INFO : telemetry.sender : Sending 4246 bytes
+65763 : 2025-10-30 22:06:09,612 : INFO : telemetry.sender : Finish uploading in 0.952168 seconds.
+68737 : 2025-10-30 22:09:09,716 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030220909645].
+68737 : 2025-10-30 22:09:09,717 : INFO : telemetry.records : 1 cache files to upload.
+68737 : 2025-10-30 22:09:09,717 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030220909645/cache into 1 records.
+68737 : 2025-10-30 22:09:09,717 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030220909645
+68737 : 2025-10-30 22:09:09,717 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+68737 : 2025-10-30 22:09:09,717 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+68737 : 2025-10-30 22:09:10,858 : INFO : telemetry.sender : Sending 4258 bytes
+68737 : 2025-10-30 22:09:10,859 : INFO : telemetry.sender : Finish uploading in 1.141171 seconds.
+70604 : 2025-10-30 22:11:49,773 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030221149657].
+70604 : 2025-10-30 22:11:49,773 : INFO : telemetry.records : 1 cache files to upload.
+70604 : 2025-10-30 22:11:49,773 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030221149657/cache into 1 records.
+70604 : 2025-10-30 22:11:49,773 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030221149657
+70604 : 2025-10-30 22:11:49,774 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+70604 : 2025-10-30 22:11:49,774 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+70604 : 2025-10-30 22:11:50,825 : INFO : telemetry.sender : Sending 4355 bytes
+70604 : 2025-10-30 22:11:50,825 : INFO : telemetry.sender : Finish uploading in 1.051022 seconds.
+70915 : 2025-10-30 22:12:09,848 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030221209774].
+70915 : 2025-10-30 22:12:09,848 : INFO : telemetry.records : 1 cache files to upload.
+70915 : 2025-10-30 22:12:09,848 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030221209774/cache into 1 records.
+70915 : 2025-10-30 22:12:09,849 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030221209774
+70915 : 2025-10-30 22:12:09,849 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+70915 : 2025-10-30 22:12:09,849 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+70915 : 2025-10-30 22:12:10,808 : INFO : telemetry.sender : Sending 4295 bytes
+70915 : 2025-10-30 22:12:10,809 : INFO : telemetry.sender : Finish uploading in 0.959503 seconds.
+73828 : 2025-10-30 22:15:26,800 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030221526733].
+73828 : 2025-10-30 22:15:26,800 : INFO : telemetry.records : 1 cache files to upload.
+73828 : 2025-10-30 22:15:26,800 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030221526733/cache into 1 records.
+73828 : 2025-10-30 22:15:26,801 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030221526733
+73828 : 2025-10-30 22:15:26,801 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+73828 : 2025-10-30 22:15:26,801 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+73828 : 2025-10-30 22:15:27,850 : INFO : telemetry.sender : Sending 4384 bytes
+73828 : 2025-10-30 22:15:27,850 : INFO : telemetry.sender : Finish uploading in 1.049152 seconds.
+74533 : 2025-10-30 22:15:58,913 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030221558822].
+74533 : 2025-10-30 22:15:58,913 : INFO : telemetry.records : 1 cache files to upload.
+74533 : 2025-10-30 22:15:58,913 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030221558822/cache into 1 records.
+74533 : 2025-10-30 22:15:58,914 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030221558822
+74533 : 2025-10-30 22:15:58,914 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+74533 : 2025-10-30 22:15:58,914 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+74533 : 2025-10-30 22:15:59,841 : INFO : telemetry.sender : Sending 4688 bytes
+74533 : 2025-10-30 22:15:59,841 : INFO : telemetry.sender : Finish uploading in 0.927167 seconds.
+74559 : 2025-10-30 22:16:00,352 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030221600216].
+74559 : 2025-10-30 22:16:00,352 : INFO : telemetry.records : 1 cache files to upload.
+74559 : 2025-10-30 22:16:00,352 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030221600216/cache into 1 records.
+74559 : 2025-10-30 22:16:00,352 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030221600216
+74559 : 2025-10-30 22:16:00,353 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+74559 : 2025-10-30 22:16:00,353 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+74559 : 2025-10-30 22:16:01,309 : INFO : telemetry.sender : Sending 4938 bytes
+74559 : 2025-10-30 22:16:01,310 : INFO : telemetry.sender : Finish uploading in 0.957133 seconds.
+76780 : 2025-10-30 22:18:44,510 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030221844442].
+76780 : 2025-10-30 22:18:44,511 : INFO : telemetry.records : 1 cache files to upload.
+76780 : 2025-10-30 22:18:44,511 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030221844442/cache into 1 records.
+76780 : 2025-10-30 22:18:44,511 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030221844442
+76780 : 2025-10-30 22:18:44,511 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+76780 : 2025-10-30 22:18:44,511 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+76788 : 2025-10-30 22:18:44,761 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030221844695].
+76788 : 2025-10-30 22:18:44,762 : INFO : telemetry.records : 1 cache files to upload.
+76788 : 2025-10-30 22:18:44,762 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030221844695/cache into 1 records.
+76788 : 2025-10-30 22:18:44,762 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030221844695
+76788 : 2025-10-30 22:18:44,762 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+76788 : 2025-10-30 22:18:44,762 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+76780 : 2025-10-30 22:18:45,513 : INFO : telemetry.sender : Sending 4429 bytes
+76780 : 2025-10-30 22:18:45,513 : INFO : telemetry.sender : Finish uploading in 1.001572 seconds.
+76788 : 2025-10-30 22:18:45,799 : INFO : telemetry.sender : Sending 4295 bytes
+76788 : 2025-10-30 22:18:45,799 : INFO : telemetry.sender : Finish uploading in 1.036855 seconds.
+79246 : 2025-10-30 22:21:35,196 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030222135129].
+79246 : 2025-10-30 22:21:35,196 : INFO : telemetry.records : 1 cache files to upload.
+79246 : 2025-10-30 22:21:35,196 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030222135129/cache into 1 records.
+79246 : 2025-10-30 22:21:35,196 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030222135129
+79246 : 2025-10-30 22:21:35,197 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+79246 : 2025-10-30 22:21:35,197 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+79254 : 2025-10-30 22:21:35,492 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030222135419].
+79254 : 2025-10-30 22:21:35,492 : INFO : telemetry.records : 1 cache files to upload.
+79254 : 2025-10-30 22:21:35,493 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030222135419/cache into 1 records.
+79254 : 2025-10-30 22:21:35,493 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030222135419
+79254 : 2025-10-30 22:21:35,493 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+79254 : 2025-10-30 22:21:35,493 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+79246 : 2025-10-30 22:21:36,171 : INFO : telemetry.sender : Sending 4304 bytes
+79246 : 2025-10-30 22:21:36,172 : INFO : telemetry.sender : Finish uploading in 0.974648 seconds.
+79254 : 2025-10-30 22:21:36,400 : INFO : telemetry.sender : Sending 4295 bytes
+79254 : 2025-10-30 22:21:36,401 : INFO : telemetry.sender : Finish uploading in 0.907333 seconds.
+79602 : 2025-10-30 22:21:48,599 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030222148530].
+79602 : 2025-10-30 22:21:48,600 : INFO : telemetry.records : 1 cache files to upload.
+79602 : 2025-10-30 22:21:48,600 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030222148530/cache into 1 records.
+79602 : 2025-10-30 22:21:48,600 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030222148530
+79602 : 2025-10-30 22:21:48,600 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+79602 : 2025-10-30 22:21:48,600 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+79602 : 2025-10-30 22:21:49,513 : INFO : telemetry.sender : Sending 4388 bytes
+79602 : 2025-10-30 22:21:49,513 : INFO : telemetry.sender : Finish uploading in 0.912735 seconds.
+79628 : 2025-10-30 22:21:50,135 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030222150065].
+79628 : 2025-10-30 22:21:50,135 : INFO : telemetry.records : 1 cache files to upload.
+79628 : 2025-10-30 22:21:50,135 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030222150065/cache into 1 records.
+79628 : 2025-10-30 22:21:50,135 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030222150065
+79628 : 2025-10-30 22:21:50,135 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+79628 : 2025-10-30 22:21:50,135 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+79628 : 2025-10-30 22:21:51,112 : INFO : telemetry.sender : Sending 4390 bytes
+79628 : 2025-10-30 22:21:51,113 : INFO : telemetry.sender : Finish uploading in 0.977282 seconds.
+80105 : 2025-10-30 22:22:22,548 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030222222475].
+80105 : 2025-10-30 22:22:22,548 : INFO : telemetry.records : 1 cache files to upload.
+80105 : 2025-10-30 22:22:22,548 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030222222475/cache into 1 records.
+80105 : 2025-10-30 22:22:22,548 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030222222475
+80105 : 2025-10-30 22:22:22,549 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+80105 : 2025-10-30 22:22:22,549 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+80105 : 2025-10-30 22:22:23,503 : INFO : telemetry.sender : Sending 4371 bytes
+80105 : 2025-10-30 22:22:23,504 : INFO : telemetry.sender : Finish uploading in 0.954724 seconds.
+80885 : 2025-10-30 22:22:53,591 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030222253522].
+80885 : 2025-10-30 22:22:53,591 : INFO : telemetry.records : 1 cache files to upload.
+80885 : 2025-10-30 22:22:53,591 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030222253522/cache into 1 records.
+80885 : 2025-10-30 22:22:53,591 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030222253522
+80885 : 2025-10-30 22:22:53,591 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+80885 : 2025-10-30 22:22:53,591 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+80885 : 2025-10-30 22:22:54,610 : INFO : telemetry.sender : Sending 5301 bytes
+80885 : 2025-10-30 22:22:54,611 : INFO : telemetry.sender : Finish uploading in 1.019097 seconds.
+80902 : 2025-10-30 22:22:54,952 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030222254882].
+80902 : 2025-10-30 22:22:54,952 : INFO : telemetry.records : 1 cache files to upload.
+80902 : 2025-10-30 22:22:54,952 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030222254882/cache into 1 records.
+80902 : 2025-10-30 22:22:54,952 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030222254882
+80902 : 2025-10-30 22:22:54,953 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+80902 : 2025-10-30 22:22:54,953 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+80902 : 2025-10-30 22:22:55,874 : INFO : telemetry.sender : Sending 4953 bytes
+80902 : 2025-10-30 22:22:55,874 : INFO : telemetry.sender : Finish uploading in 0.921345 seconds.
+81334 : 2025-10-30 22:23:13,316 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030222313243].
+81334 : 2025-10-30 22:23:13,316 : INFO : telemetry.records : 1 cache files to upload.
+81334 : 2025-10-30 22:23:13,316 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030222313243/cache into 1 records.
+81334 : 2025-10-30 22:23:13,317 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030222313243
+81334 : 2025-10-30 22:23:13,317 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+81334 : 2025-10-30 22:23:13,317 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+81334 : 2025-10-30 22:23:14,384 : INFO : telemetry.sender : Sending 4388 bytes
+81334 : 2025-10-30 22:23:14,385 : INFO : telemetry.sender : Finish uploading in 1.067722 seconds.
+81364 : 2025-10-30 22:23:15,495 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030222315414].
+81364 : 2025-10-30 22:23:15,495 : INFO : telemetry.records : 1 cache files to upload.
+81364 : 2025-10-30 22:23:15,495 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030222315414/cache into 1 records.
+81364 : 2025-10-30 22:23:15,495 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030222315414
+81364 : 2025-10-30 22:23:15,496 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+81364 : 2025-10-30 22:23:15,496 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+81364 : 2025-10-30 22:23:16,393 : INFO : telemetry.sender : Sending 4390 bytes
+81364 : 2025-10-30 22:23:16,394 : INFO : telemetry.sender : Finish uploading in 0.897953 seconds.
+81932 : 2025-10-30 22:23:28,506 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030222328436].
+81932 : 2025-10-30 22:23:28,506 : INFO : telemetry.records : 1 cache files to upload.
+81932 : 2025-10-30 22:23:28,506 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030222328436/cache into 1 records.
+81932 : 2025-10-30 22:23:28,507 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030222328436
+81932 : 2025-10-30 22:23:28,507 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+81932 : 2025-10-30 22:23:28,507 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+81932 : 2025-10-30 22:23:29,519 : INFO : telemetry.sender : Sending 5301 bytes
+81932 : 2025-10-30 22:23:29,520 : INFO : telemetry.sender : Finish uploading in 1.012463 seconds.
+81958 : 2025-10-30 22:23:30,154 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030222330083].
+81958 : 2025-10-30 22:23:30,154 : INFO : telemetry.records : 1 cache files to upload.
+81958 : 2025-10-30 22:23:30,154 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030222330083/cache into 1 records.
+81958 : 2025-10-30 22:23:30,154 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030222330083
+81958 : 2025-10-30 22:23:30,154 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+81958 : 2025-10-30 22:23:30,154 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+81958 : 2025-10-30 22:23:31,456 : INFO : telemetry.sender : Sending 4953 bytes
+81958 : 2025-10-30 22:23:31,456 : INFO : telemetry.sender : Finish uploading in 1.301601 seconds.
+85645 : 2025-10-30 22:28:53,012 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030222852940].
+85645 : 2025-10-30 22:28:53,012 : INFO : telemetry.records : 1 cache files to upload.
+85645 : 2025-10-30 22:28:53,012 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030222852940/cache into 1 records.
+85645 : 2025-10-30 22:28:53,012 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030222852940
+85645 : 2025-10-30 22:28:53,012 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+85645 : 2025-10-30 22:28:53,012 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+85645 : 2025-10-30 22:28:54,125 : INFO : telemetry.sender : Sending 4389 bytes
+85645 : 2025-10-30 22:28:54,125 : INFO : telemetry.sender : Finish uploading in 1.112480 seconds.
+88388 : 2025-10-30 22:32:43,009 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030223242944].
+88388 : 2025-10-30 22:32:43,010 : INFO : telemetry.records : 1 cache files to upload.
+88388 : 2025-10-30 22:32:43,010 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030223242944/cache into 1 records.
+88388 : 2025-10-30 22:32:43,010 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030223242944
+88388 : 2025-10-30 22:32:43,010 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+88388 : 2025-10-30 22:32:43,010 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+88388 : 2025-10-30 22:32:44,043 : INFO : telemetry.sender : Sending 4304 bytes
+88388 : 2025-10-30 22:32:44,043 : INFO : telemetry.sender : Finish uploading in 1.032725 seconds.
+89324 : 2025-10-30 22:33:30,399 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030223330311].
+89324 : 2025-10-30 22:33:30,400 : INFO : telemetry.records : 1 cache files to upload.
+89324 : 2025-10-30 22:33:30,400 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030223330311/cache into 1 records.
+89324 : 2025-10-30 22:33:30,400 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030223330311
+89324 : 2025-10-30 22:33:30,400 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+89324 : 2025-10-30 22:33:30,400 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+89324 : 2025-10-30 22:33:31,645 : INFO : telemetry.sender : Sending 4494 bytes
+89324 : 2025-10-30 22:33:31,645 : INFO : telemetry.sender : Finish uploading in 1.244630 seconds.
+89361 : 2025-10-30 22:33:33,230 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030223333137].
+89361 : 2025-10-30 22:33:33,230 : INFO : telemetry.records : 1 cache files to upload.
+89361 : 2025-10-30 22:33:33,230 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030223333137/cache into 1 records.
+89361 : 2025-10-30 22:33:33,231 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030223333137
+89361 : 2025-10-30 22:33:33,231 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+89361 : 2025-10-30 22:33:33,231 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+89361 : 2025-10-30 22:33:34,245 : INFO : telemetry.sender : Sending 4465 bytes
+89361 : 2025-10-30 22:33:34,245 : INFO : telemetry.sender : Finish uploading in 1.013622 seconds.
+92202 : 2025-10-30 22:37:14,888 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030223714817].
+92202 : 2025-10-30 22:37:14,889 : INFO : telemetry.records : 1 cache files to upload.
+92202 : 2025-10-30 22:37:14,889 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030223714817/cache into 1 records.
+92202 : 2025-10-30 22:37:14,889 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030223714817
+92202 : 2025-10-30 22:37:14,890 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+92202 : 2025-10-30 22:37:14,890 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+92202 : 2025-10-30 22:37:16,091 : INFO : telemetry.sender : Sending 5276 bytes
+92202 : 2025-10-30 22:37:16,092 : INFO : telemetry.sender : Finish uploading in 1.201786 seconds.
+92231 : 2025-10-30 22:37:16,761 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030223716692].
+92231 : 2025-10-30 22:37:16,761 : INFO : telemetry.records : 1 cache files to upload.
+92231 : 2025-10-30 22:37:16,761 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030223716692/cache into 1 records.
+92231 : 2025-10-30 22:37:16,761 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030223716692
+92231 : 2025-10-30 22:37:16,762 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+92231 : 2025-10-30 22:37:16,762 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+92231 : 2025-10-30 22:37:17,736 : INFO : telemetry.sender : Sending 4527 bytes
+92231 : 2025-10-30 22:37:17,737 : INFO : telemetry.sender : Finish uploading in 0.974890 seconds.
+94213 : 2025-10-30 22:39:46,125 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030223946059].
+94213 : 2025-10-30 22:39:46,126 : INFO : telemetry.records : 1 cache files to upload.
+94213 : 2025-10-30 22:39:46,126 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030223946059/cache into 1 records.
+94213 : 2025-10-30 22:39:46,126 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030223946059
+94213 : 2025-10-30 22:39:46,127 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+94213 : 2025-10-30 22:39:46,127 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+94213 : 2025-10-30 22:39:47,120 : INFO : telemetry.sender : Sending 4304 bytes
+94213 : 2025-10-30 22:39:47,121 : INFO : telemetry.sender : Finish uploading in 0.994039 seconds.
+94528 : 2025-10-30 22:39:57,985 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030223957917].
+94528 : 2025-10-30 22:39:57,985 : INFO : telemetry.records : 1 cache files to upload.
+94528 : 2025-10-30 22:39:57,986 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030223957917/cache into 1 records.
+94528 : 2025-10-30 22:39:57,986 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030223957917
+94528 : 2025-10-30 22:39:57,986 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+94528 : 2025-10-30 22:39:57,986 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+94528 : 2025-10-30 22:39:58,901 : INFO : telemetry.sender : Sending 4388 bytes
+94528 : 2025-10-30 22:39:58,901 : INFO : telemetry.sender : Finish uploading in 0.915088 seconds.
+94563 : 2025-10-30 22:39:59,902 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030223959835].
+94563 : 2025-10-30 22:39:59,902 : INFO : telemetry.records : 1 cache files to upload.
+94563 : 2025-10-30 22:39:59,902 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030223959835/cache into 1 records.
+94563 : 2025-10-30 22:39:59,903 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030223959835
+94563 : 2025-10-30 22:39:59,903 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+94563 : 2025-10-30 22:39:59,903 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+94563 : 2025-10-30 22:40:00,835 : INFO : telemetry.sender : Sending 4390 bytes
+94563 : 2025-10-30 22:40:00,836 : INFO : telemetry.sender : Finish uploading in 0.932351 seconds.
+95193 : 2025-10-30 22:40:40,200 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030224040134].
+95193 : 2025-10-30 22:40:40,200 : INFO : telemetry.records : 1 cache files to upload.
+95193 : 2025-10-30 22:40:40,200 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030224040134/cache into 1 records.
+95193 : 2025-10-30 22:40:40,200 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030224040134
+95193 : 2025-10-30 22:40:40,201 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+95193 : 2025-10-30 22:40:40,201 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+95193 : 2025-10-30 22:40:41,142 : INFO : telemetry.sender : Sending 4388 bytes
+95193 : 2025-10-30 22:40:41,142 : INFO : telemetry.sender : Finish uploading in 0.941438 seconds.
+95210 : 2025-10-30 22:40:41,446 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030224041379].
+95210 : 2025-10-30 22:40:41,446 : INFO : telemetry.records : 1 cache files to upload.
+95210 : 2025-10-30 22:40:41,446 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030224041379/cache into 1 records.
+95210 : 2025-10-30 22:40:41,446 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030224041379
+95210 : 2025-10-30 22:40:41,447 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+95210 : 2025-10-30 22:40:41,447 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+95210 : 2025-10-30 22:40:42,459 : INFO : telemetry.sender : Sending 4390 bytes
+95210 : 2025-10-30 22:40:42,459 : INFO : telemetry.sender : Finish uploading in 1.012430 seconds.
+95647 : 2025-10-30 22:41:08,448 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030224108380].
+95647 : 2025-10-30 22:41:08,449 : INFO : telemetry.records : 1 cache files to upload.
+95647 : 2025-10-30 22:41:08,449 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030224108380/cache into 1 records.
+95647 : 2025-10-30 22:41:08,449 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030224108380
+95647 : 2025-10-30 22:41:08,449 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+95647 : 2025-10-30 22:41:08,449 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+95647 : 2025-10-30 22:41:09,416 : INFO : telemetry.sender : Sending 4390 bytes
+95647 : 2025-10-30 22:41:09,416 : INFO : telemetry.sender : Finish uploading in 0.966554 seconds.
+96087 : 2025-10-30 22:41:30,592 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030224130502].
+96087 : 2025-10-30 22:41:30,592 : INFO : telemetry.records : 1 cache files to upload.
+96087 : 2025-10-30 22:41:30,593 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030224130502/cache into 1 records.
+96087 : 2025-10-30 22:41:30,593 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030224130502
+96087 : 2025-10-30 22:41:30,593 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+96087 : 2025-10-30 22:41:30,593 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+96087 : 2025-10-30 22:41:31,764 : INFO : telemetry.sender : Sending 4454 bytes
+96087 : 2025-10-30 22:41:31,764 : INFO : telemetry.sender : Finish uploading in 1.171043 seconds.
+96426 : 2025-10-30 22:41:44,541 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030224144473].
+96426 : 2025-10-30 22:41:44,542 : INFO : telemetry.records : 1 cache files to upload.
+96426 : 2025-10-30 22:41:44,542 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030224144473/cache into 1 records.
+96426 : 2025-10-30 22:41:44,542 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030224144473
+96426 : 2025-10-30 22:41:44,543 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+96426 : 2025-10-30 22:41:44,543 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+96426 : 2025-10-30 22:41:45,517 : INFO : telemetry.sender : Sending 4589 bytes
+96426 : 2025-10-30 22:41:45,518 : INFO : telemetry.sender : Finish uploading in 0.974884 seconds.
+98275 : 2025-10-30 22:44:19,349 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030224419276].
+98275 : 2025-10-30 22:44:19,350 : INFO : telemetry.records : 1 cache files to upload.
+98275 : 2025-10-30 22:44:19,350 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030224419276/cache into 1 records.
+98275 : 2025-10-30 22:44:19,351 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030224419276
+98275 : 2025-10-30 22:44:19,351 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+98275 : 2025-10-30 22:44:19,351 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+98275 : 2025-10-30 22:44:20,404 : INFO : telemetry.sender : Sending 4536 bytes
+98275 : 2025-10-30 22:44:20,404 : INFO : telemetry.sender : Finish uploading in 1.053100 seconds.
+8549 : 2025-10-30 22:59:03,924 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030225903854].
+8549 : 2025-10-30 22:59:03,924 : INFO : telemetry.records : 1 cache files to upload.
+8549 : 2025-10-30 22:59:03,924 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030225903854/cache into 1 records.
+8549 : 2025-10-30 22:59:03,925 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030225903854
+8549 : 2025-10-30 22:59:03,925 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+8549 : 2025-10-30 22:59:03,925 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+8549 : 2025-10-30 22:59:05,009 : INFO : telemetry.sender : Sending 4393 bytes
+8549 : 2025-10-30 22:59:05,010 : INFO : telemetry.sender : Finish uploading in 1.084341 seconds.
+15265 : 2025-10-30 23:08:34,406 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030230834340].
+15265 : 2025-10-30 23:08:34,406 : INFO : telemetry.records : 1 cache files to upload.
+15265 : 2025-10-30 23:08:34,406 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030230834340/cache into 1 records.
+15265 : 2025-10-30 23:08:34,406 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030230834340
+15265 : 2025-10-30 23:08:34,407 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+15265 : 2025-10-30 23:08:34,407 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+15265 : 2025-10-30 23:08:35,483 : INFO : telemetry.sender : Sending 4304 bytes
+15265 : 2025-10-30 23:08:35,483 : INFO : telemetry.sender : Finish uploading in 1.076799 seconds.
+15614 : 2025-10-30 23:08:48,579 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030230848507].
+15614 : 2025-10-30 23:08:48,579 : INFO : telemetry.records : 1 cache files to upload.
+15614 : 2025-10-30 23:08:48,580 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030230848507/cache into 1 records.
+15614 : 2025-10-30 23:08:48,580 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030230848507
+15614 : 2025-10-30 23:08:48,580 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+15614 : 2025-10-30 23:08:48,580 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+15614 : 2025-10-30 23:08:49,662 : INFO : telemetry.sender : Sending 4453 bytes
+15614 : 2025-10-30 23:08:49,663 : INFO : telemetry.sender : Finish uploading in 1.082211 seconds.
+16215 : 2025-10-30 23:09:26,600 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030230926495].
+16215 : 2025-10-30 23:09:26,600 : INFO : telemetry.records : 1 cache files to upload.
+16215 : 2025-10-30 23:09:26,600 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030230926495/cache into 1 records.
+16215 : 2025-10-30 23:09:26,600 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030230926495
+16215 : 2025-10-30 23:09:26,601 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+16215 : 2025-10-30 23:09:26,601 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+16215 : 2025-10-30 23:09:27,627 : INFO : telemetry.sender : Sending 4447 bytes
+16215 : 2025-10-30 23:09:27,627 : INFO : telemetry.sender : Finish uploading in 1.026365 seconds.
+17386 : 2025-10-30 23:10:27,631 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030231027541].
+17386 : 2025-10-30 23:10:27,631 : INFO : telemetry.records : 1 cache files to upload.
+17386 : 2025-10-30 23:10:27,631 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030231027541/cache into 1 records.
+17386 : 2025-10-30 23:10:27,631 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251030231027541
+17386 : 2025-10-30 23:10:27,632 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+17386 : 2025-10-30 23:10:27,632 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+17386 : 2025-10-30 23:10:28,633 : INFO : telemetry.sender : Sending 4450 bytes
+17386 : 2025-10-30 23:10:28,633 : INFO : telemetry.sender : Finish uploading in 1.000776 seconds.
+21336 : 2025-10-31 02:12:58,180 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031021258110].
+21336 : 2025-10-31 02:12:58,180 : INFO : telemetry.records : 1 cache files to upload.
+21336 : 2025-10-31 02:12:58,180 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031021258110/cache into 1 records.
+21336 : 2025-10-31 02:12:58,180 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031021258110
+21336 : 2025-10-31 02:12:58,181 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+21336 : 2025-10-31 02:12:58,181 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+21336 : 2025-10-31 02:12:59,264 : INFO : telemetry.sender : Sending 4411 bytes
+21336 : 2025-10-31 02:12:59,264 : INFO : telemetry.sender : Finish uploading in 1.083415 seconds.
+22053 : 2025-10-31 02:13:46,916 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031021346846].
+22053 : 2025-10-31 02:13:46,916 : INFO : telemetry.records : 1 cache files to upload.
+22053 : 2025-10-31 02:13:46,917 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031021346846/cache into 1 records.
+22053 : 2025-10-31 02:13:46,917 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031021346846
+22053 : 2025-10-31 02:13:46,917 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+22053 : 2025-10-31 02:13:46,917 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+22053 : 2025-10-31 02:13:47,860 : INFO : telemetry.sender : Sending 4393 bytes
+22053 : 2025-10-31 02:13:47,860 : INFO : telemetry.sender : Finish uploading in 0.942903 seconds.
+22925 : 2025-10-31 02:14:52,615 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031021452544].
+22925 : 2025-10-31 02:14:52,615 : INFO : telemetry.records : 1 cache files to upload.
+22925 : 2025-10-31 02:14:52,615 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031021452544/cache into 1 records.
+22925 : 2025-10-31 02:14:52,616 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031021452544
+22925 : 2025-10-31 02:14:52,616 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+22925 : 2025-10-31 02:14:52,616 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+22925 : 2025-10-31 02:14:53,774 : INFO : telemetry.sender : Sending 4391 bytes
+22925 : 2025-10-31 02:14:53,774 : INFO : telemetry.sender : Finish uploading in 1.158087 seconds.
+23393 : 2025-10-31 02:15:09,653 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031021509586].
+23393 : 2025-10-31 02:15:09,654 : INFO : telemetry.records : 1 cache files to upload.
+23393 : 2025-10-31 02:15:09,654 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031021509586/cache into 1 records.
+23393 : 2025-10-31 02:15:09,654 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031021509586
+23393 : 2025-10-31 02:15:09,654 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+23393 : 2025-10-31 02:15:09,654 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+23393 : 2025-10-31 02:15:10,580 : INFO : telemetry.sender : Sending 4409 bytes
+23393 : 2025-10-31 02:15:10,581 : INFO : telemetry.sender : Finish uploading in 0.926055 seconds.
+23428 : 2025-10-31 02:15:12,012 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031021511945].
+23428 : 2025-10-31 02:15:12,012 : INFO : telemetry.records : 1 cache files to upload.
+23428 : 2025-10-31 02:15:12,012 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031021511945/cache into 1 records.
+23428 : 2025-10-31 02:15:12,013 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031021511945
+23428 : 2025-10-31 02:15:12,013 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+23428 : 2025-10-31 02:15:12,013 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+23428 : 2025-10-31 02:15:13,018 : INFO : telemetry.sender : Sending 4450 bytes
+23428 : 2025-10-31 02:15:13,018 : INFO : telemetry.sender : Finish uploading in 1.005248 seconds.
+25511 : 2025-10-31 02:16:55,971 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031021655905].
+25511 : 2025-10-31 02:16:55,971 : INFO : telemetry.records : 1 cache files to upload.
+25511 : 2025-10-31 02:16:55,971 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031021655905/cache into 1 records.
+25511 : 2025-10-31 02:16:55,971 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031021655905
+25511 : 2025-10-31 02:16:55,972 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+25511 : 2025-10-31 02:16:55,972 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+25511 : 2025-10-31 02:16:56,921 : INFO : telemetry.sender : Sending 4304 bytes
+25511 : 2025-10-31 02:16:56,921 : INFO : telemetry.sender : Finish uploading in 0.949036 seconds.
+26340 : 2025-10-31 02:17:25,240 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031021725139].
+26340 : 2025-10-31 02:17:25,241 : INFO : telemetry.records : 1 cache files to upload.
+26340 : 2025-10-31 02:17:25,241 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031021725139/cache into 1 records.
+26340 : 2025-10-31 02:17:25,241 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031021725139
+26340 : 2025-10-31 02:17:25,242 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+26340 : 2025-10-31 02:17:25,242 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+26340 : 2025-10-31 02:17:26,155 : INFO : telemetry.sender : Sending 4450 bytes
+26340 : 2025-10-31 02:17:26,156 : INFO : telemetry.sender : Finish uploading in 0.913875 seconds.
+29861 : 2025-10-31 02:21:12,116 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031022112024].
+29861 : 2025-10-31 02:21:12,116 : INFO : telemetry.records : 1 cache files to upload.
+29861 : 2025-10-31 02:21:12,116 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031022112024/cache into 1 records.
+29861 : 2025-10-31 02:21:12,116 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031022112024
+29861 : 2025-10-31 02:21:12,117 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+29861 : 2025-10-31 02:21:12,117 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+29861 : 2025-10-31 02:21:13,430 : INFO : telemetry.sender : Sending 4450 bytes
+29861 : 2025-10-31 02:21:13,431 : INFO : telemetry.sender : Finish uploading in 1.313363 seconds.
+30253 : 2025-10-31 02:21:26,673 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031022126585].
+30253 : 2025-10-31 02:21:26,673 : INFO : telemetry.records : 1 cache files to upload.
+30253 : 2025-10-31 02:21:26,674 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031022126585/cache into 1 records.
+30253 : 2025-10-31 02:21:26,674 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031022126585
+30253 : 2025-10-31 02:21:26,674 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+30253 : 2025-10-31 02:21:26,674 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+30253 : 2025-10-31 02:21:27,746 : INFO : telemetry.sender : Sending 4445 bytes
+30253 : 2025-10-31 02:21:27,747 : INFO : telemetry.sender : Finish uploading in 1.072251 seconds.
+39661 : 2025-10-31 02:34:18,740 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031023418637].
+39661 : 2025-10-31 02:34:18,740 : INFO : telemetry.records : 1 cache files to upload.
+39661 : 2025-10-31 02:34:18,740 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031023418637/cache into 1 records.
+39661 : 2025-10-31 02:34:18,740 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031023418637
+39661 : 2025-10-31 02:34:18,741 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+39661 : 2025-10-31 02:34:18,741 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+39661 : 2025-10-31 02:34:19,844 : INFO : telemetry.sender : Sending 4928 bytes
+39661 : 2025-10-31 02:34:19,844 : INFO : telemetry.sender : Finish uploading in 1.102818 seconds.
+42069 : 2025-10-31 02:37:19,347 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031023719236].
+42069 : 2025-10-31 02:37:19,347 : INFO : telemetry.records : 1 cache files to upload.
+42069 : 2025-10-31 02:37:19,348 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031023719236/cache into 1 records.
+42069 : 2025-10-31 02:37:19,348 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031023719236
+42069 : 2025-10-31 02:37:19,348 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+42069 : 2025-10-31 02:37:19,348 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+42069 : 2025-10-31 02:37:20,391 : INFO : telemetry.sender : Sending 4435 bytes
+42069 : 2025-10-31 02:37:20,391 : INFO : telemetry.sender : Finish uploading in 1.042796 seconds.
+43343 : 2025-10-31 02:38:47,600 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031023847512].
+43343 : 2025-10-31 02:38:47,600 : INFO : telemetry.records : 1 cache files to upload.
+43343 : 2025-10-31 02:38:47,600 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031023847512/cache into 1 records.
+43343 : 2025-10-31 02:38:47,600 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031023847512
+43343 : 2025-10-31 02:38:47,601 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+43343 : 2025-10-31 02:38:47,601 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+43343 : 2025-10-31 02:38:48,580 : INFO : telemetry.sender : Sending 4450 bytes
+43343 : 2025-10-31 02:38:48,581 : INFO : telemetry.sender : Finish uploading in 0.979421 seconds.
+43927 : 2025-10-31 02:39:18,960 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031023918872].
+43927 : 2025-10-31 02:39:18,960 : INFO : telemetry.records : 1 cache files to upload.
+43927 : 2025-10-31 02:39:18,960 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031023918872/cache into 1 records.
+43927 : 2025-10-31 02:39:18,961 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031023918872
+43927 : 2025-10-31 02:39:18,961 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+43927 : 2025-10-31 02:39:18,961 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+43927 : 2025-10-31 02:39:19,938 : INFO : telemetry.sender : Sending 4409 bytes
+43927 : 2025-10-31 02:39:19,938 : INFO : telemetry.sender : Finish uploading in 0.976630 seconds.
+44231 : 2025-10-31 02:39:24,976 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031023924904].
+44231 : 2025-10-31 02:39:24,976 : INFO : telemetry.records : 1 cache files to upload.
+44231 : 2025-10-31 02:39:24,976 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031023924904/cache into 1 records.
+44231 : 2025-10-31 02:39:24,976 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031023924904
+44231 : 2025-10-31 02:39:24,977 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+44231 : 2025-10-31 02:39:24,977 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+44231 : 2025-10-31 02:39:25,945 : INFO : telemetry.sender : Sending 4409 bytes
+44231 : 2025-10-31 02:39:25,946 : INFO : telemetry.sender : Finish uploading in 0.968742 seconds.
+47938 : 2025-10-31 02:44:53,926 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031024453795].
+47938 : 2025-10-31 02:44:53,927 : INFO : telemetry.records : 1 cache files to upload.
+47938 : 2025-10-31 02:44:53,927 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031024453795/cache into 1 records.
+47938 : 2025-10-31 02:44:53,927 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031024453795
+47938 : 2025-10-31 02:44:53,928 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+47938 : 2025-10-31 02:44:53,928 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+47938 : 2025-10-31 02:44:54,874 : INFO : telemetry.sender : Sending 4410 bytes
+47938 : 2025-10-31 02:44:54,874 : INFO : telemetry.sender : Finish uploading in 0.946521 seconds.
+53813 : 2025-10-31 02:50:23,413 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031025023292].
+53813 : 2025-10-31 02:50:23,414 : INFO : telemetry.records : 1 cache files to upload.
+53813 : 2025-10-31 02:50:23,414 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031025023292/cache into 1 records.
+53813 : 2025-10-31 02:50:23,414 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031025023292
+53813 : 2025-10-31 02:50:23,415 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+53813 : 2025-10-31 02:50:23,415 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+53813 : 2025-10-31 02:50:24,402 : INFO : telemetry.sender : Sending 4696 bytes
+53813 : 2025-10-31 02:50:24,403 : INFO : telemetry.sender : Finish uploading in 0.987627 seconds.
+55171 : 2025-10-31 02:51:41,858 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031025141769].
+55171 : 2025-10-31 02:51:41,859 : INFO : telemetry.records : 1 cache files to upload.
+55171 : 2025-10-31 02:51:41,859 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031025141769/cache into 1 records.
+55171 : 2025-10-31 02:51:41,859 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031025141769
+55171 : 2025-10-31 02:51:41,860 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+55171 : 2025-10-31 02:51:41,860 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+55171 : 2025-10-31 02:51:42,947 : INFO : telemetry.sender : Sending 4450 bytes
+55171 : 2025-10-31 02:51:42,947 : INFO : telemetry.sender : Finish uploading in 1.087391 seconds.
+55615 : 2025-10-31 02:52:00,490 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031025200411].
+55615 : 2025-10-31 02:52:00,491 : INFO : telemetry.records : 1 cache files to upload.
+55615 : 2025-10-31 02:52:00,491 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031025200411/cache into 1 records.
+55615 : 2025-10-31 02:52:00,491 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031025200411
+55615 : 2025-10-31 02:52:00,491 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+55615 : 2025-10-31 02:52:00,492 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+55615 : 2025-10-31 02:52:01,486 : INFO : telemetry.sender : Sending 4576 bytes
+55615 : 2025-10-31 02:52:01,487 : INFO : telemetry.sender : Finish uploading in 0.994967 seconds.
+56915 : 2025-10-31 02:53:10,019 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031025309924].
+56915 : 2025-10-31 02:53:10,019 : INFO : telemetry.records : 1 cache files to upload.
+56915 : 2025-10-31 02:53:10,019 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031025309924/cache into 1 records.
+56915 : 2025-10-31 02:53:10,020 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031025309924
+56915 : 2025-10-31 02:53:10,020 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+56915 : 2025-10-31 02:53:10,020 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+56915 : 2025-10-31 02:53:10,977 : INFO : telemetry.sender : Sending 4450 bytes
+56915 : 2025-10-31 02:53:10,977 : INFO : telemetry.sender : Finish uploading in 0.957046 seconds.
+60626 : 2025-10-31 02:57:58,671 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031025758549].
+60626 : 2025-10-31 02:57:58,671 : INFO : telemetry.records : 1 cache files to upload.
+60626 : 2025-10-31 02:57:58,671 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031025758549/cache into 1 records.
+60626 : 2025-10-31 02:57:58,671 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031025758549
+60626 : 2025-10-31 02:57:58,672 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+60626 : 2025-10-31 02:57:58,672 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+60626 : 2025-10-31 02:57:59,640 : INFO : telemetry.sender : Sending 4726 bytes
+60626 : 2025-10-31 02:57:59,641 : INFO : telemetry.sender : Finish uploading in 0.968479 seconds.
+62305 : 2025-10-31 02:59:42,544 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031025942448].
+62305 : 2025-10-31 02:59:42,545 : INFO : telemetry.records : 1 cache files to upload.
+62305 : 2025-10-31 02:59:42,545 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031025942448/cache into 1 records.
+62305 : 2025-10-31 02:59:42,545 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031025942448
+62305 : 2025-10-31 02:59:42,545 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+62305 : 2025-10-31 02:59:42,546 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+62305 : 2025-10-31 02:59:43,541 : INFO : telemetry.sender : Sending 4450 bytes
+62305 : 2025-10-31 02:59:43,542 : INFO : telemetry.sender : Finish uploading in 0.995989 seconds.
+76252 : 2025-10-31 03:17:42,384 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031031742245].
+76252 : 2025-10-31 03:17:42,384 : INFO : telemetry.records : 1 cache files to upload.
+76252 : 2025-10-31 03:17:42,385 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031031742245/cache into 1 records.
+76252 : 2025-10-31 03:17:42,385 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031031742245
+76252 : 2025-10-31 03:17:42,386 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+76252 : 2025-10-31 03:17:42,386 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+76252 : 2025-10-31 03:17:43,366 : INFO : telemetry.sender : Sending 4847 bytes
+76252 : 2025-10-31 03:17:43,366 : INFO : telemetry.sender : Finish uploading in 0.980660 seconds.
+79639 : 2025-10-31 03:21:51,924 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031032151817].
+79639 : 2025-10-31 03:21:51,924 : INFO : telemetry.records : 1 cache files to upload.
+79639 : 2025-10-31 03:21:51,924 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031032151817/cache into 1 records.
+79639 : 2025-10-31 03:21:51,924 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031032151817
+79639 : 2025-10-31 03:21:51,925 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+79639 : 2025-10-31 03:21:51,925 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+79639 : 2025-10-31 03:21:52,918 : INFO : telemetry.sender : Sending 4450 bytes
+79639 : 2025-10-31 03:21:52,918 : INFO : telemetry.sender : Finish uploading in 0.993104 seconds.
+80025 : 2025-10-31 03:22:08,268 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031032208177].
+80025 : 2025-10-31 03:22:08,269 : INFO : telemetry.records : 1 cache files to upload.
+80025 : 2025-10-31 03:22:08,269 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031032208177/cache into 1 records.
+80025 : 2025-10-31 03:22:08,269 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031032208177
+80025 : 2025-10-31 03:22:08,270 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+80025 : 2025-10-31 03:22:08,270 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+80025 : 2025-10-31 03:22:09,192 : INFO : telemetry.sender : Sending 4461 bytes
+80025 : 2025-10-31 03:22:09,193 : INFO : telemetry.sender : Finish uploading in 0.922162 seconds.
+87424 : 2025-10-31 03:32:15,350 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031033215222].
+87424 : 2025-10-31 03:32:15,350 : INFO : telemetry.records : 1 cache files to upload.
+87424 : 2025-10-31 03:32:15,350 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031033215222/cache into 1 records.
+87424 : 2025-10-31 03:32:15,350 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031033215222
+87424 : 2025-10-31 03:32:15,351 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+87424 : 2025-10-31 03:32:15,351 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+87424 : 2025-10-31 03:32:16,332 : INFO : telemetry.sender : Sending 4435 bytes
+87424 : 2025-10-31 03:32:16,333 : INFO : telemetry.sender : Finish uploading in 0.981105 seconds.
+10623 : 2025-10-31 04:05:01,819 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031040501720].
+10623 : 2025-10-31 04:05:01,819 : INFO : telemetry.records : 1 cache files to upload.
+10623 : 2025-10-31 04:05:01,819 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031040501720/cache into 1 records.
+10623 : 2025-10-31 04:05:01,820 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031040501720
+10623 : 2025-10-31 04:05:01,820 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+10623 : 2025-10-31 04:05:01,820 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+10623 : 2025-10-31 04:05:02,785 : INFO : telemetry.sender : Sending 4450 bytes
+10623 : 2025-10-31 04:05:02,785 : INFO : telemetry.sender : Finish uploading in 0.964502 seconds.
+10877 : 2025-10-31 04:05:10,683 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031040510606].
+10877 : 2025-10-31 04:05:10,684 : INFO : telemetry.records : 1 cache files to upload.
+10877 : 2025-10-31 04:05:10,684 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031040510606/cache into 1 records.
+10877 : 2025-10-31 04:05:10,684 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031040510606
+10877 : 2025-10-31 04:05:10,685 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+10877 : 2025-10-31 04:05:10,685 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+10877 : 2025-10-31 04:05:11,658 : INFO : telemetry.sender : Sending 4394 bytes
+10877 : 2025-10-31 04:05:11,659 : INFO : telemetry.sender : Finish uploading in 0.973990 seconds.
+14518 : 2025-10-31 04:09:51,881 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031040951778].
+14518 : 2025-10-31 04:09:51,882 : INFO : telemetry.records : 1 cache files to upload.
+14518 : 2025-10-31 04:09:51,882 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031040951778/cache into 1 records.
+14518 : 2025-10-31 04:09:51,882 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031040951778
+14518 : 2025-10-31 04:09:51,883 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+14518 : 2025-10-31 04:09:51,883 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+14518 : 2025-10-31 04:09:52,882 : INFO : telemetry.sender : Sending 4450 bytes
+14518 : 2025-10-31 04:09:52,882 : INFO : telemetry.sender : Finish uploading in 0.999384 seconds.
+22842 : 2025-10-31 04:21:34,000 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031042133861].
+22842 : 2025-10-31 04:21:34,000 : INFO : telemetry.records : 1 cache files to upload.
+22842 : 2025-10-31 04:21:34,000 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031042133861/cache into 1 records.
+22842 : 2025-10-31 04:21:34,000 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031042133861
+22842 : 2025-10-31 04:21:34,001 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+22842 : 2025-10-31 04:21:34,001 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+22842 : 2025-10-31 04:21:35,027 : INFO : telemetry.sender : Sending 4689 bytes
+22842 : 2025-10-31 04:21:35,027 : INFO : telemetry.sender : Finish uploading in 1.025795 seconds.
+94279 : 2025-10-31 16:52:17,821 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031165217730].
+94279 : 2025-10-31 16:52:17,821 : INFO : telemetry.records : 1 cache files to upload.
+94279 : 2025-10-31 16:52:17,821 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031165217730/cache into 1 records.
+94279 : 2025-10-31 16:52:17,821 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031165217730
+94279 : 2025-10-31 16:52:17,822 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+94279 : 2025-10-31 16:52:17,822 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+94279 : 2025-10-31 16:52:18,875 : INFO : telemetry.sender : Sending 4450 bytes
+94279 : 2025-10-31 16:52:18,875 : INFO : telemetry.sender : Finish uploading in 1.053180 seconds.
+99061 : 2025-10-31 16:58:43,301 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031165843173].
+99061 : 2025-10-31 16:58:43,301 : INFO : telemetry.records : 1 cache files to upload.
+99061 : 2025-10-31 16:58:43,301 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031165843173/cache into 1 records.
+99061 : 2025-10-31 16:58:43,301 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031165843173
+99061 : 2025-10-31 16:58:43,302 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+99061 : 2025-10-31 16:58:43,302 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+99061 : 2025-10-31 16:58:44,313 : INFO : telemetry.sender : Sending 4689 bytes
+99061 : 2025-10-31 16:58:44,314 : INFO : telemetry.sender : Finish uploading in 1.011427 seconds.
+1070 : 2025-10-31 17:00:38,878 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031170038809].
+1070 : 2025-10-31 17:00:38,879 : INFO : telemetry.records : 1 cache files to upload.
+1070 : 2025-10-31 17:00:38,879 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031170038809/cache into 1 records.
+1070 : 2025-10-31 17:00:38,879 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031170038809
+1070 : 2025-10-31 17:00:38,879 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+1070 : 2025-10-31 17:00:38,879 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+1070 : 2025-10-31 17:00:39,907 : INFO : telemetry.sender : Sending 4473 bytes
+1070 : 2025-10-31 17:00:39,907 : INFO : telemetry.sender : Finish uploading in 1.027707 seconds.
+1649 : 2025-10-31 17:01:06,739 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031170106669].
+1649 : 2025-10-31 17:01:06,740 : INFO : telemetry.records : 1 cache files to upload.
+1649 : 2025-10-31 17:01:06,740 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031170106669/cache into 1 records.
+1649 : 2025-10-31 17:01:06,740 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031170106669
+1649 : 2025-10-31 17:01:06,740 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+1649 : 2025-10-31 17:01:06,740 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+1649 : 2025-10-31 17:01:07,802 : INFO : telemetry.sender : Sending 4473 bytes
+1649 : 2025-10-31 17:01:07,802 : INFO : telemetry.sender : Finish uploading in 1.061713 seconds.
+2570 : 2025-10-31 17:01:48,120 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031170148050].
+2570 : 2025-10-31 17:01:48,121 : INFO : telemetry.records : 1 cache files to upload.
+2570 : 2025-10-31 17:01:48,121 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031170148050/cache into 1 records.
+2570 : 2025-10-31 17:01:48,121 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031170148050
+2570 : 2025-10-31 17:01:48,121 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+2570 : 2025-10-31 17:01:48,121 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+2570 : 2025-10-31 17:01:49,157 : INFO : telemetry.sender : Sending 4473 bytes
+2570 : 2025-10-31 17:01:49,157 : INFO : telemetry.sender : Finish uploading in 1.035232 seconds.
+3314 : 2025-10-31 17:02:16,108 : INFO : telemetry.main : Attempt start. Configuration directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp]. Cache directory [/Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031170216040].
+3314 : 2025-10-31 17:02:16,108 : INFO : telemetry.records : 1 cache files to upload.
+3314 : 2025-10-31 17:02:16,108 : INFO : telemetry.records : Processed file /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031170216040/cache into 1 records.
+3314 : 2025-10-31 17:02:16,108 : INFO : telemetry.records : Remove directory /Users/rushikeshdeelippatil/Downloads/mobius/.azure-tmp/telemetry/20251031170216040
+3314 : 2025-10-31 17:02:16,109 : INFO : telemetry.client : Accumulated 1 events. Flush the clients.
+3314 : 2025-10-31 17:02:16,109 : INFO : telemetry.client : Flush client c4395b75-49cc-422c-bc95-c7d51aef5d46.
+3314 : 2025-10-31 17:02:17,073 : INFO : telemetry.sender : Sending 4473 bytes
+3314 : 2025-10-31 17:02:17,073 : INFO : telemetry.sender : Finish uploading in 0.964345 seconds.

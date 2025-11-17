@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Polkadot-inspired glow animations with pink/magenta */
+@keyframes glow-pulse-pink {
+  0%, 100% {
+    filter: drop-shadow(0 0 10px rgba(230, 0, 122, 0.5));
+  }
+  50% {
+    filter: drop-shadow(0 0 25px rgba(230, 0, 122, 1)) drop-shadow(0 0 40px rgba(230, 0, 122, 0.6));
+  }
+}
+
+@keyframes text-glow-pink {
+  0%, 100% {
+    text-shadow: 0 0 15px rgba(230, 0, 122, 0.6), 0 0 30px rgba(230, 0, 122, 0.3);
+  }
+  50% {
+    text-shadow: 0 0 30px rgba(230, 0, 122, 1), 0 0 50px rgba(230, 0, 122, 0.8), 0 0 70px rgba(85, 43, 191, 0.5);
+  }
+}
+
+@keyframes gradient-shift {
+  0%, 100% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+}
+
+.animate-glow-pulse {
+  animation: glow-pulse-pink 3s ease-in-out infinite;
+}
+
+.animate-text-glow {
+  animation: text-glow-pink 2.5s ease-in-out infinite;
+}
+
+.animate-gradient {
+  background-size: 200% 200%;
+  animation: gradient-shift 8s ease infinite;
+}
+
+:root { color-scheme: dark; }
+
+html, body, :root { height: 100%; }
+
+body { @apply bg-surface text-white; }
+
+.glass {
+  backdrop-filter: blur(10px);
+  background: rgba(15, 15, 17, 0.6);
+  border: 1px solid rgba(255,255,255,0.06);
+}
+

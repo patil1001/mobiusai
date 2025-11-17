@@ -1,0 +1,31 @@
+{
+  "buildCommand": "npx prisma generate && npm run build",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "regions": ["iad1"],
+  "env": {
+    "DATABASE_URL": "@database_url",
+    "NEXTAUTH_URL": "@nextauth_url",
+    "NEXTAUTH_SECRET": "@nextauth_secret",
+    "GROQ_API_KEY": "@groq_api_key",
+    "GROQ_BASE_URL": "https://api.groq.com/openai/v1",
+    "GROQ_MODEL": "llama-3.3-70b-versatile",
+    "NEXT_PUBLIC_POLKADOT_ENDPOINT": "wss://westend-rpc.polkadot.io",
+    "NEXT_PUBLIC_POLKADOT_CHAIN": "Westend",
+    "NEXT_PUBLIC_POLKADOT_UNIT": "WND",
+    "NEXT_PUBLIC_POLKADOT_DECIMALS": "12",
+    "NEXT_PUBLIC_PEOPLE_CHAIN_ENDPOINT": "wss://westend-people-rpc.polkadot.io"
+  },
+  "functions": {
+    "app/api/**/*.ts": {
+      "maxDuration": 300
+    }
+  },
+  "crons": [
+    {
+      "path": "/api/cleanup",
+      "schedule": "0 */6 * * *"
+    }
+  ]
+}
+

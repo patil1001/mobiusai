@@ -1,0 +1,3 @@
+CMD-LOG-LINE-BEGIN 57630 | 2025-10-31 02:53:34,241 | INFO | az_command_data_logger | command args: webapp deploy --subscription {} --resource-group {} --name {} --src-path {} --type {}
+CMD-LOG-LINE-BEGIN 57630 | 2025-10-31 02:57:58,471 | ERROR | az_command_data_logger | An error occurred during deployment. Status Code: 504, Details: 504.0 GatewayTimeout, Please visit https://mobiusai-rushikeshdeelippatil-17872.scm.azurewebsites.net/api/deployments/latest to get more information about your deployment
+CMD-LOG-LINE-BEGIN 57630 | 2025-10-31 02:57:58,472 | INFO | az_command_data_logger | exit code: 1

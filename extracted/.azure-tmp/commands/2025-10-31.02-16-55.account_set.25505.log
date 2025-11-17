@@ -1,0 +1,2 @@
+CMD-LOG-LINE-BEGIN 25505 | 2025-10-31 02:16:55,859 | INFO | az_command_data_logger | command args: account set --subscription {}
+CMD-LOG-LINE-BEGIN 25505 | 2025-10-31 02:16:55,862 | INFO | az_command_data_logger | exit code: 0

@@ -1,0 +1,3 @@
+CMD-LOG-LINE-BEGIN 96373 | 2025-10-30 22:41:40,034 | INFO | az_command_data_logger | command args: webapp create --subscription {} --resource-group {} --plan {} --name {} --runtime {}
+CMD-LOG-LINE-BEGIN 96373 | 2025-10-30 22:41:44,436 | ERROR | az_command_data_logger | Linux Runtime 'NODE|18-lts' is not supported.Run 'az webapp list-runtimes --os-type linux' to cross check
+CMD-LOG-LINE-BEGIN 96373 | 2025-10-30 22:41:44,436 | INFO | az_command_data_logger | exit code: 1

@@ -1,0 +1,2 @@
+CMD-LOG-LINE-BEGIN 94502 | 2025-10-30 22:39:56,204 | INFO | az_command_data_logger | command args: provider register --namespace {}
+CMD-LOG-LINE-BEGIN 94502 | 2025-10-30 22:39:57,876 | INFO | az_command_data_logger | exit code: 0
